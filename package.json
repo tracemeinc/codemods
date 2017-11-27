@@ -1,0 +1,15 @@
+{
+  "name": "codemods",
+  "version": "1.0.0",
+  "description": "This repository contains a collection of codemod scripts for use with [JSCodeshift](https://github.com/facebook/jscodeshift).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracemeinc/codemods.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tracemeinc/codemods/issues"
+  },
+  "homepage": "https://github.com/tracemeinc/codemods#readme"
+}
